@@ -54,9 +54,3 @@ java Main
 - Implement a graphical user interface (GUI) for improved usability.
 - Integrate with a database for persistent storage.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-This project is open-source and available under the MIT License.
-
